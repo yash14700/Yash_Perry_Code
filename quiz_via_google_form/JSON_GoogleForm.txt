@@ -1,0 +1,74 @@
+function createForm(fileId) {
+  Logger.log("creates form");
+  var file = DriveApp.getFileById(fileId);
+  var jsonFile = file.getAs('application/json');
+  var jsonObject = JSON.parse(jsonFile.getDataAsString());
+  var name = file.getName();
+  name = name.substring(0, name.length - 4) + "_form";
+  
+  //form set up
+  var form = FormApp.create(name).setTitle(name);
+  form.setIsQuiz(true);
+  
+  
+  for(var i = 0; i < jsonObject.length; i += 1) {
+    //Create Checkbox question
+    var item = form.addCheckboxItem();
+    
+    var question = jsonObject[i]["question"]["question_text"];
+    var choices = [];
+    var answer_text = "";
+    var something = false;
+    //fill choices variable
+    var j;
+    for (j in jsonObject[i]["question"]["answers"]) {
+      var ans = jsonObject[i]["question"]["answers"][j];
+      if (ans["answer_weight"] == 0) {
+        choices.push(item.createChoice(ans["answer_text"], false));
+        something = true;
+      }
+      else {
+        choices.push(item.createChoice(ans["answer_text"], true));
+        answer_text = ans["answer_text"];
+        something = true;
+      }
+    }
+    
+    if(something) {
+      //Fill info into question
+      item.setTitle(question);
+      item.setPoints(1);
+      item.setChoices(choices);
+      
+      //Feedback
+//      var Feedback = FormApp.createFeedback()
+//      .setText(answer_text)
+//      .build();
+//      item.setFeedbackForCorrect(Feedback);
+//      item.setFeedbackForIncorrect(Feedback);
+    }
+    else {
+      form.deleteItem(item.getIndex());
+    }
+    
+  }
+}
+
+function main() {
+  Logger.log("Test Log");
+  var count = 0;
+  var folderId = "1fABTo2YUi8Mx5R9GxiztR2xn--_5w4uG";
+  var folder = DriveApp.getFolderById(folderId);
+  var files = folder.getFiles()
+  var formlinks = [];
+  while(files.hasNext()) {
+    var file = files.next();
+    var edited_format = new RegExp(".*_edited.json");
+    
+    //Create a form for every file that has edited.json in its name
+    if(edited_format.test(file.getName())) {
+      Logger.log(file.getName());
+      createForm(file.getId());
+    }
+  }
+}
