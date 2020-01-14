@@ -8,7 +8,7 @@ Part 1 is accomplished with the python file "to_prof.py" and can be run as it is
 ## Step 1: Using Python file
 The first step is to convert the initial JSON files that you sent me into a simplified version.<br>
 To do this simply download the "to_prof.py" file into the same folder where you store the json files that you want turned into quizes.<br>
-You should be able to just double click on the python file, and it will generate a copy of all the json files with "_edited" in the file title. if double clicking doesn't work -> Use terminal to go to the folder where the python file is and type "python to_prof.py"
+You should be able to just double click on the python file, and it will generate a copy of all the json files with "_edited" in the file title. if double clicking doesn't work -> Use terminal to go to the folder where the python file is and type "python to_prof.py" in the command line
 <br>
 ## Setting up Google Drive to use Quiz Generator
 ## Using the Google App Script file
