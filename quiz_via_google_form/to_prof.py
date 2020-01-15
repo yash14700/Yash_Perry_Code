@@ -14,8 +14,8 @@ The professor can answer 1 - 4, 1 being a bad questoin and 4 being a good questi
 # Long term changes
 -> Either export everything to google app script, or use python with canvas (using a combination makes no sense)
 """
-import json
-import os
+import simplejson as json
+#import os
 import requests
 import glob
 

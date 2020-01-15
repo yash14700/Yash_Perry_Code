@@ -1,4 +1,3 @@
-json
-os
+simplejson
 requests
-glob
+glob2
