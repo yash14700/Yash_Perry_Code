@@ -1,0 +1,1067 @@
+[
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the air temperature is close to the dew point would the relative humidity be high or low? Explain.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "As the difference between the air temperature and the dew point increases the relative humidity:",
+            "answers": [
+                {
+                    "answer_text": "A) increases",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) decreases",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) remains constant at a value less than 100%",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) remains constant and equal to 100%",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The temperature to which air must be cooled in order to become saturated is the:",
+            "answers": [
+                {
+                    "answer_text": "A) minimum temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) dew point temperature",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) wet-bulb temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) freezing point",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "As the air temperature increases with no addition of water vapor to the air the dew point will:",
+            "answers": [
+                {
+                    "answer_text": "A) remain the same",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) increase",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) decrease",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) increase and become equal to the air temperature",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In the vertical the pressure gradient force points ____ and gravity points ____.",
+            "answers": [
+                {
+                    "answer_text": "A) toward the earth, away from the earth",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) toward the earth, toward the earth",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) away from the earth, away from the earth",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) away from the earth, toward the earth",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain how dew frozen dew and visible frost form.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following is the best indicator of the actual amount of water vapor in the air?",
+            "answers": [
+                {
+                    "answer_text": "A) air temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) saturation vapor pressure",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) relative humidity",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) dew point temperature",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Lines connecting points of equal pressure change are called:",
+            "answers": [
+                {
+                    "answer_text": "A) isobars",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) isograds",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) contours",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) isotherms",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) isallobars",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the atmospheric conditions that are necessary for the formation of advection fog",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "When an upper-level low lies directly above a surface low:",
+            "answers": [
+                {
+                    "answer_text": "A) the surface low will probably weaken",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) thunderstorms will develop",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) a wave cyclone will begin to form",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) the pressure of the surface low will decrease",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) cyclogenesis will occur",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What would be the height of the base of a cumulus cloud when the surface air temperature is 45 degrees C and the dew point is 25 degrees C?",
+            "answers": [
+                {
+                    "answer_text": "A) 1125 m",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 2000 m",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 2500 m",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) 4000 m",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) 6500 m",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Suppose the dew point of cold outside air is the same as the dew point of the air  indoors.  If the door is opened and cold air replaces some of the warm air then the  new relative humidity indoors would be:",
+            "answers": [
+                {
+                    "answer_text": "A) lower than before",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) higher than before",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) the same as before",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) impossible to tell from the information given",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the atmospheric conditions that are necessary for the formation of radiation fog",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Suppose saturated polar air has an air temperature and dew point of -10 degrees C and  unsaturated desert air has an air temperature of 35 degrees C and a dew point of 10 degrees C.  The  desert air contains ____ water vapor and has a ____ relative humidity than the",
+            "answers": [
+                {
+                    "answer_text": "A) more, lower",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) more, higher",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) less, lower",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) less, higher",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the air temperature remains constant evaporating water into the air will ____ the  dew point and ____ the relative humidity.",
+            "answers": [
+                {
+                    "answer_text": "A) increase, increase",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) increase, decrease",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) decrease, increase",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) decrease, decrease",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Pressure changes:",
+            "answers": [
+                {
+                    "answer_text": "A) more rapidly in the horizontal direction than in the vertical",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) more rapidly in the vertical direction than in the horizontal",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) at the same rate in the horizontal and vertical directions",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) more rapidly in the vertical over land than over the ocean",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Nighttime temperatures rarely drop below the dew point temperature because:",
+            "answers": [
+                {
+                    "answer_text": "A) the dew will absorb all the heat",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) saturation vapor pressures always increase at night",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) at saturation, latent heat of condensation is released into the air",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) both saturation vapor pressures always increase at night, and at saturation, latent heat of condensation is released into the air",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the flow of air into a surface low pressure area is greater than the divergence of air aloft the surface pressure in the center of the low will:",
+            "answers": [
+                {
+                    "answer_text": "A) increase",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) decrease",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) remain the same",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) deepen",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If in the Northern Hemisphere the upper level winds above you are blowing from the south then it is a good bet that a trough of low pressure is to the ____ of you.",
+            "answers": [
+                {
+                    "answer_text": "A) north",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) south",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) east",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) west",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Relative humidity changes with:",
+            "answers": [
+                {
+                    "answer_text": "A) addition of water vapor to the air",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) decreases in temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) increases in temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) removal of water vapor from the air",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) all of the above",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following sets of conditions would produce a cumulus cloud with the lowest base?",
+            "answers": [
+                {
+                    "answer_text": "A) air temperature 90\u00ac\u221eF, dew point temperature 50\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) air temperature 90\u00ac\u221eF, dew point temperature 40\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) air temperature 90\u00ac\u221eF, dew point temperature 60\u00ac\u221eF",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) air temperature 90\u00ac\u221eF, dew point temperature 20\u00ac\u221eF",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following sets of conditions would produce a cumulus cloud with the lowest base?",
+            "answers": [
+                {
+                    "answer_text": "A) air temperature 90\u00ac\u221eF, dew point temperature 50\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) air temperature 90\u00ac\u221eF, dew point temperature 40\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) air temperature 90\u00ac\u221eF, dew point temperature 60\u00ac\u221eF",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) air temperature 90\u00ac\u221eF, dew point temperature 20\u00ac\u221eF",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "How does the weather usually change along a dryline? Since hot dry air is often located behind (to the west) of a dryline why are drylines not classified as warm fronts?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "List two primary ways in which fog forms.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Suppose it is a winter night and at about 11 pm the air cools to the dew-point temperature and a thick radiation fog develops. If the air continues to cool during the night in 5 hours the dew point temperature will probably:",
+            "answers": [
+                {
+                    "answer_text": "A) decrease as the air becomes drier",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) decrease as the air becomes moister",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) increase as the air becomes drier",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) increase as the air becomes moister",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the air temperature in a room is 70 degrees F the saturation vapor pressure is 25 mb  the dew point temperature is 45 degrees F and the actual vapor pressure is 10 mb then the  relative humidity must be near ____ percent.",
+            "answers": [
+                {
+                    "answer_text": "A) 15",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 20",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 35",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) 40",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the Milankovitch theory of climatic change by explaining how each of the three cycles alters the amount of solar energy reaching the earth.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In winter the most extreme change in air temperature across a cold front will occur when the front separates what two air masses?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following set of surface conditions would produce a convective cumulus cloud with the highest base?",
+            "answers": [
+                {
+                    "answer_text": "A) air temperature 40\u00ac\u221eC, dew point 30\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) air temperature 25\u00ac\u221eC, dew point 10\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) air temperature 35\u00ac\u221eC, dew point 10\u00ac\u221eC",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) air temperature 45\u00ac\u221eC, dew point 25\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) air temperature 25\u00ac\u221eC, dew point 5\u00ac\u221eC",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Lines connecting points of equal temperature are called:",
+            "answers": [
+                {
+                    "answer_text": "A) isobars",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) isotherms",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) thermals",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) thermographs",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "At midnight in a shallow layer of air near the ground the air temperature is 44 degrees F and the dew point temperature is 36 degrees F. If the air cools at a rate of 2 degrees F per hour until the dew point is reached and at a rate of 1 degrees F per hour thereafter what will be the temperature and atmospheric conditions at 6:00 am?",
+            "answers": [
+                {
+                    "answer_text": "A) the temperature will be 34\u00ac\u221eF and no condensation will be present",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the temperature will be 32\u00ac\u221eF with frost and frozen dew present",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) the temperature will be 32\u00ac\u221eF and only frost will be present",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) the temperature will be 32\u00ac\u221eF and only frozen dew will be present",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) the temperature will be 34\u00ac\u221eF and only dew will be present",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Lines connecting points of equal pressure are called:",
+            "answers": [
+                {
+                    "answer_text": "A) isobars",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) millibars",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) contours",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) isotherms",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) a coordinate grid",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The bluish halo that may appear above pointed objects underneath a thunderstorm is called:",
+            "answers": [
+                {
+                    "answer_text": "A) heat lightning",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) fluorescence",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) St. Elmo's fire",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) sheet lightning",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which process below will change a moist layer of stable air into a deck of low stratocumulus clouds?",
+            "answers": [
+                {
+                    "answer_text": "A) mixing",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) lifting",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) cooling the surface",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) heat the top of the layer",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) subsidence",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "For a surface storm system to intensify the upper-level low (or trough) should be located to the ____ of the surface low.",
+            "answers": [
+                {
+                    "answer_text": "A) north",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) south",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) east",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) west",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Plate tectonics explains certain climatic changes by showing that these changes may be related to:",
+            "answers": [
+                {
+                    "answer_text": "A) mountain building",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the amount of CO2 and H2O released into the atmosphere",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) the paths taken by ocean currents",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) the position of the continents",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) all of the above",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "On a weather map sharp changes in temperature humidity and wind direction are marked by:",
+            "answers": [
+                {
+                    "answer_text": "A) a front",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) an anticyclone",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) a ridge",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) blowing dust",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What conditions are necessary for upwelling to occur along the west coast of North America? How does upwelling influence the formation of fog?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A wind that changes direction in a counterclockwise sense with increasing height is called a(n):",
+            "answers": [
+                {
+                    "answer_text": "A) backing wind",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) Ekman spiral",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) meridional wind",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) veering wind",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "At night low clouds:",
+            "answers": [
+                {
+                    "answer_text": "A) enhance the atmospheric greenhouse effect",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) weaken the atmospheric greenhouse effect",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) are often caused by the atmospheric greenhouse effect",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) have no effect on the atmospheric greenhouse effect",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In calm air the air temperature is -10 degrees C if the wind speed should increase to 30 knots (with no change in air temperature) the thermometer would indicate:",
+            "answers": [
+                {
+                    "answer_text": "A) a much higher temperature than -10\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) a much lower temperature than -10\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) a temperature of -10\u00ac\u221eC",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) a temperature of -30\u00ac\u221eC",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Wind machines can prevent surface air temperatures from reaching extremely low readings by:",
+            "answers": [
+                {
+                    "answer_text": "A) blowing smoke over an orchard or field",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) increasing the evaporation rate from fruits and vegetables",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) mixing surface air with air directly above",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) reducing the rate of cooling by evaporation",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) increasing the likelihood of condensation on fruits and vegetables",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "On a clear night the minimum temperature drops to 34 degrees F. The following night fog forms early in the evening. It is a good bet the minimum temperature will not be as low because of the:",
+            "answers": [
+                {
+                    "answer_text": "A) enhancement of the greenhouse effect by the fog cloud",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) trapping of smoke and dust by the water vapor",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) calm winds that accompany fog",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) all of the above",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A change of one degree on the Celsius scale is ________ a change of one degree on the  Fahrenheit scale.",
+            "answers": [
+                {
+                    "answer_text": "A) equal to",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) larger than",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) smaller than",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) is in the opposite direction of",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain why barometric pressure usually falls with the approach of a cold front or occluded front.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The change of state of ice into water vapor is known as:",
+            "answers": [
+                {
+                    "answer_text": "A) deposition",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) sublimation",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) melting",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) condensation",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) crystallization",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "On a 500 millibar chart ____ are drawn to represent horizontal changes in altitude  which correspond to horizontal changes in pressure.",
+            "answers": [
+                {
+                    "answer_text": "A) contour lines",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) isobars",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) isotherms",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) isotachs",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A surface LOW pressure area that moves from south to north directly east of your home would most likely produce winds that shift from:",
+            "answers": [
+                {
+                    "answer_text": "A) S to SE to E",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) SE to E to SW",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) N to NE to E",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) W to NW to N",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) NE to N to NW",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Suppose it is snowing outside and the air is saturated.  The air temperature and dew  point are both 15 degrees F and the actual vapor pressure is 3 mb. If this air is brought  indoors and warmed to 75 degrees F what would the relative humidity of this air be",
+            "answers": [
+                {
+                    "answer_text": "A) 5 percent",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 10 percent",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) 30 percent",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) 50 percent",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) 100 percent",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "On an upper-level chart is cold air aloft generally associated with low or high pressure? What about warm air aloft ?",
+            "answers": []
+        }
+    }
+]

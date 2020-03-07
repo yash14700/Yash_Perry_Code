@@ -1,0 +1,882 @@
+[
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The initial stage of an air-mass thunderstorm is the:",
+            "answers": [
+                {
+                    "answer_text": "A) mature stage",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) dissipating stage",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) cumulus stage",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) multicell stage",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The first three stages of a developing hurricane are (from first stage to third stage):",
+            "answers": [
+                {
+                    "answer_text": "A) tropical disturbance, tropical storm, typhoon",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) tropical depression, tropical disturbance, tropical storm",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) tropical disturbance, tropical depression, tropical storm",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) cyclone, typhoon, tropical storm",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the stages of development of an ordinary cell (air mass) thunderstorm.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The Ekman Spiral describes:",
+            "answers": [
+                {
+                    "answer_text": "A) the turning of water with depth",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) the air flow into a center of low pressure",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) the circulation of surface water around a gyre",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) the air flow out of a region of high pressure",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) the wind-flow pattern in a jet stream",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The turning of water with depth is known as:",
+            "answers": [
+                {
+                    "answer_text": "A) the Hadley Spiral",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the Ekman Spiral",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) a gyre",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) the Ferrel Spiral",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) upwelling",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Just before a storm becomes a fully developed hurricane it is in the ____ stage. ",
+            "answers": [
+                {
+                    "answer_text": "A) tropical disturbance",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) tropical depression",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) tropical storm",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) cyclone",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) typhoon",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If you see a tornado and it appears to be stretched into the shape of a rope what stage of development is the tornado in?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "An air-mass thunderstorm is most intense during the ____ stage.",
+            "answers": [
+                {
+                    "answer_text": "A) mature",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) multicell",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) cumulus",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) dissipating",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the horizontal and vertical structure of a hurricane.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "How does the average speed of air molecules relate to the air temperature?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Downdrafts spread throughout a thunderstorm during the ____ stage.",
+            "answers": [
+                {
+                    "answer_text": "A) cumulus",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) dissipating",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) precipitating",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) developing",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain this fact: Without upper-level divergence a surface open wave cyclone would probably persist for less than a day.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Hurricanes are given names when the storm is in what stage of development?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe how the wind blows around highs and lows aloft and near the surface in the Northern Hemisphere.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A group of thunderstorms which develop in a line one next to the other each in a different stage of development are called:",
+            "answers": [
+                {
+                    "answer_text": "A) air-mass thunderstorms",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) a thunderstorm cluster",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) a multicell thunderstorm",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) mature thunderstorms",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What is necessary for a multicell thunderstorm to form?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Supercell thunderstorms that produce tornadoes form in a region of strong wind shear. Explain how the wind usually changes in speed and direction to produce this shear.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following provides a measure of the average speed of air molecules:",
+            "answers": [
+                {
+                    "answer_text": "A) pressure",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) temperature",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) density",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) heat",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "An abrupt change in wind speed or wind direction is called:",
+            "answers": [
+                {
+                    "answer_text": "A) wind shear",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) an air pocket",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) flurry",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) squall",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which instrument only measures wind speed?",
+            "answers": [
+                {
+                    "answer_text": "A) anemometer",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) wind sock",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) wind vane",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) rawinsonde observation",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) aerovane",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Severe thunderstorms are different from air-mass thunderstorms in that severe thunderstorms:",
+            "answers": [
+                {
+                    "answer_text": "A) contain thunder and lightning",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) have an anvil",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) contain hail",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) have a strong updraft and downdraft",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) have a tilted updraft in the mature stage",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The main difference between a hurricane and a tropical storm is that:",
+            "answers": [
+                {
+                    "answer_text": "A) hurricanes are larger",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) tropical storms are more than 500 miles from the US mainland",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) winds speeds are greater in a hurricane",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) hurricanes have a clearly defined eye on satellite photographs",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following forces can not act to change the speed of the wind?",
+            "answers": [
+                {
+                    "answer_text": "A) pressure gradient force",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) frictional force",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) Coriolis force",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) none of the above",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain why condensation is more likely when the air temperature lowers.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "An instrument used to measure wind speed is called a(an):",
+            "answers": [
+                {
+                    "answer_text": "A) anemometer",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) ceilometer",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) psychrometer",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) tachometer",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Lines of equal wind speed are called:",
+            "answers": [
+                {
+                    "answer_text": "A) isobars",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) isoknots",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) isotachs",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) isospeeds",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Charged particles from the sun that travel through space at high speeds are called:",
+            "answers": [
+                {
+                    "answer_text": "A) radiation",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the aurora",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) solar wind",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) solar flares",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the instruments below indicates both wind speed and wind direction?",
+            "answers": [
+                {
+                    "answer_text": "A) wind vane",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) aerovane",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) cup anemometer",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) psychrometer",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) theodolite",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The greatest wind speed ever recorded at the earth's surface occurred at:",
+            "answers": [
+                {
+                    "answer_text": "A) Mt. Washington, New Hampshire",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) Miami, Florida",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) Mt. Pleasant, Iowa",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) Cheyenne, Wyoming",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) Long's Peak, Colorado",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain how suction vortices can add wind speed to a large multi-vortex tornado.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the weather conditions necessary for a blizzard to form over the northern Great Plains.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The region in the United States with the greatest annual frequency of hailstones is:",
+            "answers": [
+                {
+                    "answer_text": "A) Florida",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the Mississippi Valley",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) the Pacific Northwest",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) the western Great Plains",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "E) Texas",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "List three 'triggers' that help in the initial stage of hurricane development.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Why do some mid-latitude cyclones quickly 'die out' after they become occluded?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What are the necessary ingredients for a mid-latitude cyclonic storm to develop into a huge storm system?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the flow of air into a surface low pressure area is greater than the divergence of air aloft the surface pressure in the center of the low will:",
+            "answers": [
+                {
+                    "answer_text": "A) increase",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) decrease",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) remain the same",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) deepen",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The wind's speed generally increases with height above the earth's surface because:",
+            "answers": [
+                {
+                    "answer_text": "A) only the lowest layer of air rotates with the earth",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) air temperature normally decreases with height",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) wind instruments are not accurate at the earth's surface",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) friction with the earth's surface slows the air near the ground",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "E) air parcels expand and become less dense as they rise above the surface",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the earth did not rotate how would surface winds tend to blow?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In calm air the air temperature is -10 degrees C if the wind speed should increase to 30 knots (with no change in air temperature) the thermometer would indicate:",
+            "answers": [
+                {
+                    "answer_text": "A) a much higher temperature than -10\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) a much lower temperature than -10\u00ac\u221eC",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) a temperature of -10\u00ac\u221eC",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) a temperature of -30\u00ac\u221eC",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Atmospheric shortwaves usually move ____ at a speed that is ____ than longwaves.",
+            "answers": [
+                {
+                    "answer_text": "A) east to west, faster",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) west to east, faster",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) east to west, slower",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) west to east, slower",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The instrument that measures the speed at which precipitation is moving toward or away from an observer is:",
+            "answers": [
+                {
+                    "answer_text": "A) the radiosonde",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the aerovane",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) the wind psychromete",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) Doppler radar",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In what ways is a hurricane different from a mid-latitude cyclone? In what ways are these two systems similar?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If katabatic winds blow downslope why aren't they warm?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In winter cold-front weather is typically more violent than warm-front weather. Why? Explain why this situation is not necessarily true in summer.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A wind that blows at a constant speed parallel to curved isobars or contour lines is called a:",
+            "answers": [
+                {
+                    "answer_text": "A) geostrophic wind",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) cyclonic wind",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) convergent wind",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) gradient wind",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "On average where do we usually find the highest dew-point temperatures in the United States?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which forecasting method assumes that weather systems will move in the same direction and at the same speed as they have been moving?",
+            "answers": [
+                {
+                    "answer_text": "A) persistence forecast",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) probability forecast",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) weather type forecast",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) climatological forecast",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) steady state (trend) forecast",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A sonic boom:",
+            "answers": [
+                {
+                    "answer_text": "A) is a form of lightning",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) occurs with lightning",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) is produced by static electricity in the atmosphere",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) can be produced by an approaching tornado",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) is caused when an aircraft flies faster than the speed of sound",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The net force on air moving in a circle at constant speed is:",
+            "answers": [
+                {
+                    "answer_text": "A) inward toward the center of rotation",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) zero",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) in the direction of wind motion",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) outward from the center of rotation",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "At the periphery of a hurricane the air is ____ and several kilometers above the surface in the eye the air is ____.",
+            "answers": [
+                {
+                    "answer_text": "A) sinking, sinking",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) sinking, rising",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) rising, sinking",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) rising, rising",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A relatively narrow downburst less than 4 kilometers wide is called:",
+            "answers": [
+                {
+                    "answer_text": "A) a microburst",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) a funnel cloud",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) a rain shaft",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) a narrow burst",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) a mesocyclone",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Longwaves in the middle and upper troposphere usually have lengths on the order of:",
+            "answers": [
+                {
+                    "answer_text": "A) tens of kilometers",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) hundreds of kilometers",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) thousands of kilometers",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) millions of kilometers",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Describe the three scales of motion when discussing wind and give an example of each.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain how the earth and its atmosphere balance incoming energy with outgoing energy.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the environmental lapse rate is less than the moist adiabatic rate the atmosphere is:",
+            "answers": [
+                {
+                    "answer_text": "A) conditionally unstable",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) absolutely stable",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) absolutely unstable",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) neutrally stable",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What is a stable atmosphere and how can it form?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "List and explain several processes by which an unstable atmosphere can be made stable.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "When the upward-directed pressure gradient force is in balance with the downward pull of gravity the atmosphere is in:",
+            "answers": [
+                {
+                    "answer_text": "A) hydrostatic equilibrium",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) unstable equilibrium",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) geostrophic balance",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) isobaric balance",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "When the environmental lapse rate decreases more rapidly with height than the dry adiabatic rate the atmosphere is:",
+            "answers": [
+                {
+                    "answer_text": "A) absolutely stable",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) absolutely unstable",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) convectively unstable",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) conditionaly unstable",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "List and explain several processes by which a stable atmosphere can be made unstable.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Heat transferred outward from the surface of the moon can take place by:",
+            "answers": [
+                {
+                    "answer_text": "A) convection",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) conduction",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) latent heat",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) radiation",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following environmental lapse rates would represent the most unstable atmosphere in a layer of unsaturated air?",
+            "answers": [
+                {
+                    "answer_text": "A) 3\u00ac\u221eC per 1000 m",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 6\u00ac\u221eC per 1000 m",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 9\u00ac\u221eC per 1000 m",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) 11\u00ac\u221eC per 1000 m",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which set of conditions working together will make the atmosphere the most stable?",
+            "answers": [
+                {
+                    "answer_text": "A) cool the surface and warm the air aloft",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) cool the surface and cool the air aloft",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) warm the surface and cool the air aloft",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) warm the surface and warm the air aloft",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The main reason why vegetables take longer to cook in boiling water at high altitudes  is because:",
+            "answers": [
+                {
+                    "answer_text": "A) water boils at a higher temperature with higher altitude",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the temperature of the boiling water decreases with increasing altitude",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) there is less oxygen in the air at high altitude",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) saturation vapor pressure decreases with increasing altitude",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What two sets of conditions working together will make the atmosphere the most unstable?",
+            "answers": [
+                {
+                    "answer_text": "A) cool the surface and warm the air aloft",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) cool the surface and cool the air aloft",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) warm the surface and cool the air aloft",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) warm the surface and warm the air aloft",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "A wind flow pattern that takes on a more or less north-south trajectory is called:",
+            "answers": [
+                {
+                    "answer_text": "A) gradient flow",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) zonal flow",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) cyclostrophic flow",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) meridional flow",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "E) geostrophic flow",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "How are longwaves in the upper-level westerlies different from shortwaves?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Sinking air warms by this process:",
+            "answers": [
+                {
+                    "answer_text": "A) compression",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) expansion",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) condensation",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) friction",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "At which of these wavelengths is radiation most likely to pass through the atmosphere without being absorbed?",
+            "answers": [
+                {
+                    "answer_text": "A) 6 \u0152\u00bam",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 18 \u0152\u00bam",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 11 \u0152\u00bam",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) 15 \u0152\u00bam",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Why does air pressure decrease with height more rapidly in cold air than in warm air?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The atmosphere around the earth would rush off into space if the vertical pressure gradient force were not balanced by:",
+            "answers": [
+                {
+                    "answer_text": "A) the Coriolis force",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) the horizontal pressure gradient force",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) gravity",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) the centripetal force",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) friction",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Why are skies oft en clear or partly cloudy in a hurricane's eye?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Under what conditions would the moist adiabatic rate of cooling be almost equal to the dry adiabatic rate?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Why are moist and dry adiabatic rates of cooling different?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "How does the polar jet stream influence the formation of a mid-latitude cyclone?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following will decrease in a rising parcel of air?",
+            "answers": [
+                {
+                    "answer_text": "A) relative humidity",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) absolute humidity",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) specific humidity",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) all of the above",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The temperature to which air must be cooled in order to become saturated is the:",
+            "answers": [
+                {
+                    "answer_text": "A) minimum temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) dew point temperature",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) wet-bulb temperature",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) freezing point",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following will increase the relative humidity in a home during the winter?",
+            "answers": [
+                {
+                    "answer_text": "A) increasing the thermostat setting",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) lowering the temperature of the air inside the home",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) sealing the house against drafts",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) taking a shower and letting the air circulate through the home",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "An increase in atmospheric CO2 concentrations will most likely lead to ____ in the troposphere and ____ in the upper atmosphere.",
+            "answers": [
+                {
+                    "answer_text": "A) warming, warming",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) cooling, warming",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) warming, cooling",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) cooling, cooling",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In a conditionally unstable atmosphere the environmental lapse rate will be ____ than the moist adiabatic rate and ____ han the dry adiabatic rate.",
+            "answers": [
+                {
+                    "answer_text": "A) greater, less",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) greater, greater",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) less, greater",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) less, less",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which of the following is not a reason why water warms and cools much more slowly than land?",
+            "answers": [
+                {
+                    "answer_text": "A) solar energy penetrates more deeply into water",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) heat energy is mixed in a deeper layer of water",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) water has a higher heat capacity",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) a portion of the solar energy that strikes water is used to evaporate it",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) it takes more heat to raise the temperature of a given amount of soil 1\u00ac\u221eC than it does to raise the temperature of water 1\u00ac\u221eC",
+                    "answer_weight": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Explain how mountains influence precipitation.",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Suppose it is snowing outside and the air is saturated.  The air temperature and dew  point are both 15 degrees F and the actual vapor pressure is 3 mb. If this air is brought  indoors and warmed to 75 degrees F what would the relative humidity of this air be",
+            "answers": [
+                {
+                    "answer_text": "A) 5 percent",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 10 percent",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "C) 30 percent",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) 50 percent",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) 100 percent",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "At the earth's surface a rising saturated air parcel would cool most rapidly when its temperature is:",
+            "answers": [
+                {
+                    "answer_text": "A) 10\u00ac\u221eF",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) 32\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 50\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) 68\u00ac\u221eF",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) 80\u00ac\u221eF",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the temperature is 20 degrees C and the actual vapor pressure e is 10 mb what is the relative humidity?",
+            "answers": [
+                {
+                    "answer_text": "A) 0.5",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 0.22",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 0.08",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) 0.45",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "E) None of the above",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "In what ways is a hurricane different from a mid-latitude cyclone? In what ways are these two systems similar?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "On an upper-level chart is cold air aloft generally associated with low or high pressure? What about warm air aloft ?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Which cloud type would most likely form in absolutely stable air?",
+            "answers": [
+                {
+                    "answer_text": "A) cumulus congestus",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) cumulonimbus",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) stratus",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) altocumulus",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Warm air aloft is associated with constant pressure surfaces that are found at ____ altitude than normal and ____ than normal atmospheric pressure aloft.",
+            "answers": [
+                {
+                    "answer_text": "A) higher, higher",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) higher, lower",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) lower, higher",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) lower, lower",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "The region of strongest winds within a jet stream is called a:",
+            "answers": [
+                {
+                    "answer_text": "A) jet spray",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) jet flow",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) jet streak",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) jet front",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If you were to take a trip during the summer from Ohio to Nevada you would most likely observe that afternoon cumulus clouds ____ as you travel west.",
+            "answers": [
+                {
+                    "answer_text": "A) have higher cloud bases",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "B) are larger",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) form earlier in the day",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "D) disappear",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "Why does air pressure always decrease with increasing height above the surface?",
+            "answers": []
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "If the average snowfall over an area of northcentral Canada is 100 cm per year how long would it take for the snow to reach a depth of 1000 meters? (Assume that there is no melting in summer and no compaction)",
+            "answers": [
+                {
+                    "answer_text": "A) 10 years",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "B) 1,000 years",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "C) 10,000 years",
+                    "answer_weight": 1
+                },
+                {
+                    "answer_text": "D) 100,000 years",
+                    "answer_weight": 0
+                },
+                {
+                    "answer_text": "E) 10,000,000 years",
+                    "answer_weight": 0
+                }
+            ]
+        }
+    },
+    {
+        "question": {
+            "points_possible": 1,
+            "question_text": "What can cause the air pressure to change at the bottom of a column of air?",
+            "answers": []
+        }
+    }
+]

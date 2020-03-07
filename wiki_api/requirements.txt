@@ -1,0 +1,4 @@
+Flask==1.1.1
+wikipedia==1.4.0
+gunicorn==19.10.0
+simplejson==3.17.0
