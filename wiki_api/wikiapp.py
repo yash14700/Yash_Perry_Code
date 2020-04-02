@@ -14,8 +14,9 @@ def return_intro():
     pages = wikipedia.search(word)
     #Error: What ig pages is empty
     page = pages[0]
-    data = wikipedia.page(page)
-    return jsonify(data.summary)
+    data = {"summary" : ""}
+    data["summary"] = wikipedia.page(page).summary
+    return jsonify(data)
 
 #Run
 if __name__ == "__main__":
